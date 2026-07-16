@@ -4,7 +4,7 @@ A simple Python project that uses the built-in **Turtle Graphics** module to dra
 
 ## Output
 
-![Heart Drawing](screenshots/op1.png)
+![Heart Drawing](Screenshots/op1.png)
 ---
 
 ## Overview
