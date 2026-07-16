@@ -2,7 +2,9 @@
 
 A simple Python project that uses the built-in **Turtle Graphics** module to draw a heart shape and display custom text inside it. This project is ideal for beginners who want to learn graphical programming in Python.
 
->![alt text](image.png)
+## Output
+
+![Heart Drawing](screenshots/op1.png)
 ---
 
 ## Overview
